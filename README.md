@@ -1,6 +1,6 @@
-# nfc_project_1
+# NFC Emulator App
 
-A new Flutter project.
+An NFC emulator app developed with Flutter. This app focuses on wearable screens.
 
 ## Getting Started
 
